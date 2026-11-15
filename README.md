@@ -2,7 +2,7 @@
 
 
 
-Personal finance ledger for the command line.
+Personal finance ledger for the command line: balances, spending and monthly reports from a CSV file.
 
 
 
@@ -14,6 +14,25 @@ Personal finance ledger for the command line.
 
 &#x20;   uv run ledger spending
 
-## Author
+
+
+\## Roadmap
+
+
+
+\- Monthly report of income and spending
+
+\- A database instead of a CSV file
+
+\- A web API and a dashboard
+
+
+
+\## Author
+
+
 
 leofedie
+
+
+
