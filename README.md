@@ -14,3 +14,6 @@ Personal finance ledger: balances and spending from a CSV file.
 
 &#x20;   uv run ledger spending
 
+## Author
+
+leofedie
